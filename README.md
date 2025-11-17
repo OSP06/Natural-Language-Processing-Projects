@@ -7,7 +7,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/transformers/)
 
-![NLP Projects Overview](assets/nlp_overview.png)
 
 ## 📚 Projects Overview
 
@@ -258,7 +257,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 **Om Patel**
 - GitHub: [@OSP06](https://github.com/OSP06)
 - LinkedIn: [om-sanjay-patel](https://linkedin.com/in/om-sanjay-patel)
-- Email: your.email@example.com
+- Email: ompateldev06@gmail.com
 
 ---
 
